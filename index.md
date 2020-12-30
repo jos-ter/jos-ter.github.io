@@ -106,11 +106,6 @@
 						And then look at your hands.
 					</div>
 					
-					<div class="w3-margin-bottom">
-						A thousand people picking up a command to distract.
-						A thousand people picking up courage to act.
-					</div>
-					
 					<br><br><br><br><br>
 				</div>
 			</div>
