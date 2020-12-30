@@ -1,5 +1,6 @@
 # jos-ter.github.io
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Welcome to the Demo Grant Bank.
+Check your account anytime anywhere.](jos-ter.github.io "Demo Grant Bank")
 
 
-Shall we take charge? Stop this slavery? Make money an open source thing?
+Shall we take charge? Stop this slavery? Make it an open source thing?
