@@ -1,5 +1,5 @@
 # jos-ter.github.io
-Welcome to the Demo Grant Bank.
+Welcome to the Demo Grant Bank.  
 Check [your account](https://jos-ter.github.io "Demo Grant Bank") anytime and anywhere.  
   
   
