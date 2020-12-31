@@ -1,5 +1,5 @@
 # orozone.github.io
-Welcome to [the oro zone](https://orozone.github.io "Oro Zone").  
+Welcome to [the oro zone](https://orozone.github.io).   
 Lets built ourselves a home.
   
 
